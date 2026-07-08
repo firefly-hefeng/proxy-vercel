@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "functions": {
+    "api/chat.ts": {
+      "maxDuration": 60
+    },
+    "api/embeddings.ts": {
+      "maxDuration": 30
+    }
+  }
+}
